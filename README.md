@@ -1,1 +1,1 @@
-Project - SofiaGrill. Restaurant site with menu view, reservations and admin rights
+Project - SofiasGrill. Restaurant site with menu view, reservations and admin rights
