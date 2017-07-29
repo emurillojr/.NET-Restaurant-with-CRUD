@@ -1,2 +1,1 @@
-# .NET-Restaurant-with-CRUD
-Project - Restaurant site with reservations and admin rights
+Project - SofiaGrill. Restaurant site with menu view, reservations and admin rights
